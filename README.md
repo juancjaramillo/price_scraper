@@ -7,15 +7,10 @@ Este proyecto **scrapea** el precio de un producto desde una página web y **gra
 ## 📷 Capturas
 
 
-
-```markdown
 ![CSV de historial](docs/images/price_history_csv.png)
 ![Gráfico de precios](docs/images/price_history.png)
 
-```
 
-
----
 
 ## 📁 Estructura del proyecto
 
