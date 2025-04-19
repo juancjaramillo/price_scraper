@@ -6,7 +6,7 @@ Este proyecto **scrapea** el precio de un producto desde una página web y **gra
 
 ## 📷 Capturas
 
-> Coloca tus imágenes en `docs/images/`.
+
 
 ```markdown
 ![CSV de historial](docs/images/price_history_csv.png)
